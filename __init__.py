@@ -27,6 +27,7 @@ bl_info = {
     "version": (1, 0, 0),
     "blender": (2, 83, 0),
     "warning": "",
+    "tracker_url": "https://github.com/Joel-dev-IMP/jufo-demo-1/issues/new",
     "category": "General"
 }
 
