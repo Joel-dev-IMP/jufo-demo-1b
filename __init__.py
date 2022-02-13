@@ -28,6 +28,7 @@ bl_info = {
     "blender": (2, 83, 0),
     "warning": "",
     "tracker_url": "https://github.com/Joel-dev-IMP/jufo-demo-1b/issues/new",
+    "endpoint_url": "https://raw.githubusercontent.com/Joel-dev-IMP/jufo-demo-1b/main/SuperAddonManager-EndpointN.json",
     "category": "General"
 }
 
