@@ -23,7 +23,7 @@ new_endpoint_version = {
         0
     ],
     "allow_automatic_download": True,
-    "download_url": "https://github.com/Joel-dev-IMP/jufo-demo-1/releases/download/1_1_0/jufo-demo-1.zip",
+    "download_url": "https://github.com/Joel-dev-IMP/jufo-demo-1b/releases/download/1_1_0/jufo-demo-1b.zip",
     "minimum_blender_version": [
         2,
         83,
